@@ -34,5 +34,6 @@ Dictionaries & conditionals
 python main.py
 
 
-⭐ Beginner-friendly mini project from The Ultimate Python Programming Handbook
+⭐ Beginner-friendly mini project.
+
 
