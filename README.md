@@ -1,4 +1,4 @@
-#🐍 Snake, Water, Gun – Python Game
+# 🐍 Snake, Water, Gun – Python Game
 
 A simple command-line Python game based on the classic Snake, Water, Gun concept (similar to Rock–Paper–Scissors).
 This project is just a small practice of basic Python programming language concepts.
@@ -35,3 +35,4 @@ python main.py
 
 
 ⭐ Beginner-friendly mini project from The Ultimate Python Programming Handbook
+
